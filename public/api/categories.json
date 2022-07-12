@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nom": "Exterieur",
+    "produits": [
+      {
+        "id": 1,
+        "nom": "Olives",
+        "prix": 25
+      },
+      {
+        "id": 2,
+        "nom": "Basilic",
+        "prix": 5
+      },
+      {
+        "id": 3,
+        "nom": "Basilic3",
+        "prix": 5
+      },
+      {
+        "id": 4,
+        "nom": "Basilic4",
+        "prix": 5
+      },
+      {
+        "id": 5,
+        "nom": "Basilic5",
+        "prix": 5
+      },
+      {
+        "id": 6,
+        "nom": "Olives6",
+        "prix": 25
+      },
+      {
+        "id": 7,
+        "nom": "Basilic7",
+        "prix": 5
+      },
+      {
+        "id": 8,
+        "nom": "Basilic8",
+        "prix": 5
+      },
+      {
+        "id": 9,
+        "nom": "Basilic9",
+        "prix": 5
+      },
+      {
+        "id": 10,
+        "nom": "Basilic10",
+        "prix": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Interrieur",
+    "produits": [
+      {
+        "id": 1,
+        "nom": "panini",
+        "prix": 25
+      },
+      {
+        "id": 2,
+        "nom": "test",
+        "prix": 5
+      }
+    ]
+  }
+]
